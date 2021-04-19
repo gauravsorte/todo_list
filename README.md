@@ -1,2 +1,2 @@
 # todo_list
-This is created using HTML, CSS. Bootstrap and Javascript
+This is a Todo List created using HTML, CSS. Bootstrap and Javascript
